@@ -1,0 +1,15 @@
+1696944306580	geckodriver	INFO	Listening on 127.0.0.1:60258
+1696944307044	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/c9/_k3d48xn78v4ff7t_nzhn5nh0000gp/T/rust_mozprofileWO1TOt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696944307838	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696944308287	Marionette	INFO	Listening on port 60283
+Read port: 60283
+WebDriver BiDi listening on ws://127.0.0.1:60259
+1696944308394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60259/devtools/browser/2ff104e7-f9f5-4a1b-b8f9-d497d475cc22
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.aknamed.com."
+1696944325286	Marionette	INFO	Stopped listening on port 60283
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://staging.aknamed.com."
