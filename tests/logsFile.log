@@ -29,3 +29,6 @@
 2023-10-14 20:03:12,913 :INFO : test_login :Entering EmailId of User
 2023-10-14 20:03:13,760 :INFO : test_login :Entering Password
 2023-10-14 20:03:14,528 :INFO : test_login :Clicking on Login Button
+2023-10-15 14:25:04,457 :INFO : test_login :Entering EmailId of User
+2023-10-15 14:25:04,746 :INFO : test_login :Entering Password
+2023-10-15 14:25:06,220 :INFO : test_login :Clicking on Login Button
