@@ -1,23 +1,119 @@
-2023-10-14 10:56:04,016 :INFO : test_login :Entering EmailId of User
-2023-10-14 10:56:04,044 :INFO : test_login :Entering Password
-2023-10-14 10:56:04,075 :INFO : test_login :Clicking on Login Button
-2023-10-14 10:57:32,299 :INFO : test_login :None
-2023-10-14 10:57:32,299 :INFO : test_login :Entering EmailId of User
-2023-10-14 10:57:32,328 :INFO : test_login :None
-2023-10-14 10:57:32,328 :INFO : test_login :Entering Password
-2023-10-14 10:57:32,356 :INFO : test_login :Clicking on Login Button
-2023-10-14 18:08:52,997 :INFO : test_login :Entering EmailId of User
-2023-10-14 18:08:53,024 :INFO : test_login :Entering Password
-2023-10-14 18:08:53,053 :INFO : test_login :Clicking on Login Button
-2023-10-14 19:54:44,427 :INFO : test_login :Entering EmailId of User
-2023-10-14 19:54:44,453 :INFO : test_login :Entering Password
-2023-10-14 19:54:44,480 :INFO : test_login :Clicking on Login Button
-2023-10-14 20:12:47,227 :INFO : test_login :Entering EmailId of User
-2023-10-14 20:12:47,256 :INFO : test_login :Entering Password
-2023-10-14 20:12:47,288 :INFO : test_login :Clicking on Login Button
-2023-10-14 20:16:21,793 :INFO : test_login :Entering EmailId of User
-2023-10-14 20:16:21,820 :INFO : test_login :Entering Password
-2023-10-14 20:16:21,851 :INFO : test_login :Clicking on Login Button
-2023-10-15 14:26:03,142 :INFO : test_login :Entering EmailId of User
-2023-10-15 14:26:03,170 :INFO : test_login :Entering Password
-2023-10-15 14:26:03,201 :INFO : test_login :Clicking on Login Button
+2023-10-16 13:19:50,271 :INFO : test_login :Entering EmailId of User
+2023-10-16 13:19:50,297 :INFO : test_login :Entering Password
+2023-10-16 13:19:50,327 :INFO : test_login :Clicking on Login Button
+2023-10-16 13:20:00,033 :INFO : test_login :<pageObjects.SalesModulePage.SalesModulePage object at 0x1026477f0>
+2023-10-16 13:26:57,582 :INFO : test_login :Entering EmailId of User
+2023-10-16 13:26:57,998 :INFO : test_login :Entering Password
+2023-10-16 13:26:58,784 :INFO : test_login :Clicking on Login Button
+2023-10-16 13:27:15,410 :INFO : test_login :None
+2023-10-16 13:27:15,648 :INFO : test_login :<pageObjects.SalesOrderCreationPage.SalesOrderCreationPage object at 0x7fa318f48810>
+2023-10-16 13:31:13,845 :INFO : test_login :Entering EmailId of User
+2023-10-16 13:31:13,872 :INFO : test_login :Entering Password
+2023-10-16 13:31:13,900 :INFO : test_login :Clicking on Login Button
+2023-10-16 13:31:21,208 :INFO : test_login :None
+2023-10-16 13:31:21,228 :INFO : test_login :<pageObjects.SalesOrderCreationPage.SalesOrderCreationPage object at 0x1048e1790>
+2023-10-16 16:07:24,295 :INFO : test_login :Entering EmailId of User
+2023-10-16 16:07:24,321 :INFO : test_login :Entering Password
+2023-10-16 16:07:24,349 :INFO : test_login :Clicking on Login Button
+2023-10-16 16:07:30,381 :INFO : test_login :None
+2023-10-16 16:07:30,403 :INFO : test_login :<pageObjects.SalesOrderCreationPage.SalesOrderCreationPage object at 0x106899a00>
+2023-10-16 16:35:59,445 :INFO : test_login :Entering EmailId of User
+2023-10-16 16:35:59,474 :INFO : test_login :Entering Password
+2023-10-16 16:35:59,506 :INFO : test_login :Clicking on Login Button
+2023-10-16 16:36:02,931 :INFO : test_login :None
+2023-10-16 18:33:36,792 :INFO : test_login :Entering EmailId of User
+2023-10-16 18:33:36,819 :INFO : test_login :Entering Password
+2023-10-16 18:33:36,847 :INFO : test_login :Clicking on Login Button
+2023-10-16 18:35:32,019 :INFO : test_login :Entering EmailId of User
+2023-10-16 18:35:32,047 :INFO : test_login :Entering Password
+2023-10-16 18:35:32,073 :INFO : test_login :Clicking on Login Button
+2023-10-16 18:44:39,987 :INFO : test_login :Entering EmailId of User
+2023-10-16 18:44:40,019 :INFO : test_login :Entering Password
+2023-10-16 18:44:40,050 :INFO : test_login :Clicking on Login Button
+2023-10-16 23:25:42,820 :INFO : test_login :Entering EmailId of User
+2023-10-16 23:25:42,849 :INFO : test_login :Entering Password
+2023-10-16 23:25:42,886 :INFO : test_login :Clicking on Login Button
+2023-10-16 23:26:35,982 :INFO : test_login :Entering EmailId of User
+2023-10-16 23:26:36,009 :INFO : test_login :Entering Password
+2023-10-16 23:26:36,038 :INFO : test_login :Clicking on Login Button
+2023-10-16 23:30:23,553 :INFO : test_login :Entering EmailId of User
+2023-10-16 23:30:23,582 :INFO : test_login :Entering Password
+2023-10-16 23:30:23,612 :INFO : test_login :Clicking on Login Button
+2023-10-16 23:46:42,483 :INFO : test_login :Entering EmailId of User
+2023-10-16 23:46:42,511 :INFO : test_login :Entering Password
+2023-10-16 23:46:42,541 :INFO : test_login :Clicking on Login Button
+2023-10-17 00:02:14,558 :INFO : test_login :Entering EmailId of User
+2023-10-17 00:02:14,585 :INFO : test_login :Entering Password
+2023-10-17 00:02:14,615 :INFO : test_login :Clicking on Login Button
+2023-10-17 00:08:46,641 :INFO : test_login :Entering EmailId of User
+2023-10-17 00:08:46,668 :INFO : test_login :Entering Password
+2023-10-17 00:08:46,698 :INFO : test_login :Clicking on Login Button
+2023-10-17 00:31:34,286 :INFO : test_login :Entering EmailId of User
+2023-10-17 00:31:34,313 :INFO : test_login :Entering Password
+2023-10-17 00:31:34,343 :INFO : test_login :Clicking on Login Button
+2023-10-17 01:10:48,185 :INFO : test_login :Entering EmailId of User
+2023-10-17 01:10:48,222 :INFO : test_login :Entering Password
+2023-10-17 01:10:48,253 :INFO : test_login :Clicking on Login Button
+2023-10-17 01:17:50,170 :INFO : test_login :Entering EmailId of User
+2023-10-17 01:17:50,201 :INFO : test_login :Entering Password
+2023-10-17 01:17:50,231 :INFO : test_login :Clicking on Login Button
+2023-10-17 11:17:14,549 :INFO : test_login :Entering EmailId of User
+2023-10-17 11:17:14,577 :INFO : test_login :Entering Password
+2023-10-17 11:17:14,604 :INFO : test_login :Clicking on Login Button
+2023-10-17 18:02:18,458 :INFO : test_login :Entering EmailId of User
+2023-10-17 18:02:18,486 :INFO : test_login :Entering Password
+2023-10-17 18:02:18,515 :INFO : test_login :Clicking on Login Button
+2023-10-17 18:02:55,509 :INFO : test_login :Entering EmailId of User
+2023-10-17 18:02:55,537 :INFO : test_login :Entering Password
+2023-10-17 18:02:55,564 :INFO : test_login :Clicking on Login Button
+2023-10-17 18:04:28,906 :INFO : test_login :Entering EmailId of User
+2023-10-17 18:04:28,934 :INFO : test_login :Entering Password
+2023-10-17 18:04:28,960 :INFO : test_login :Clicking on Login Button
+2023-10-17 23:27:24,567 :INFO : test_login :Entering EmailId of User
+2023-10-17 23:27:24,594 :INFO : test_login :Entering Password
+2023-10-17 23:27:24,631 :INFO : test_login :Clicking on Login Button
+2023-10-17 23:28:53,350 :INFO : test_login :Entering EmailId of User
+2023-10-17 23:28:53,378 :INFO : test_login :Entering Password
+2023-10-17 23:28:53,408 :INFO : test_login :Clicking on Login Button
+2023-10-17 23:33:50,842 :INFO : test_login :Entering EmailId of User
+2023-10-17 23:33:50,870 :INFO : test_login :Entering Password
+2023-10-17 23:33:50,899 :INFO : test_login :Clicking on Login Button
+2023-10-17 23:34:46,429 :INFO : test_login :Entering EmailId of User
+2023-10-17 23:34:46,458 :INFO : test_login :Entering Password
+2023-10-17 23:34:46,483 :INFO : test_login :Clicking on Login Button
+2023-10-17 23:44:40,472 :INFO : test_login :Entering EmailId of User
+2023-10-17 23:44:40,500 :INFO : test_login :Entering Password
+2023-10-17 23:44:40,529 :INFO : test_login :Clicking on Login Button
+2023-10-17 23:45:59,748 :INFO : test_login :Entering EmailId of User
+2023-10-17 23:45:59,776 :INFO : test_login :Entering Password
+2023-10-17 23:45:59,802 :INFO : test_login :Clicking on Login Button
+2023-10-17 23:51:57,266 :INFO : test_login :Entering EmailId of User
+2023-10-17 23:51:57,295 :INFO : test_login :Entering Password
+2023-10-17 23:51:57,321 :INFO : test_login :Clicking on Login Button
+2023-10-17 23:53:38,865 :INFO : test_login :Entering EmailId of User
+2023-10-17 23:53:38,894 :INFO : test_login :Entering Password
+2023-10-17 23:53:38,920 :INFO : test_login :Clicking on Login Button
+2023-10-17 23:55:56,097 :INFO : test_login :Entering EmailId of User
+2023-10-17 23:55:56,132 :INFO : test_login :Entering Password
+2023-10-17 23:55:56,161 :INFO : test_login :Clicking on Login Button
+2023-10-17 23:57:08,687 :INFO : test_login :Entering EmailId of User
+2023-10-17 23:57:08,718 :INFO : test_login :Entering Password
+2023-10-17 23:57:08,745 :INFO : test_login :Clicking on Login Button
+2023-10-17 23:57:55,219 :INFO : test_login :Entering EmailId of User
+2023-10-17 23:57:55,248 :INFO : test_login :Entering Password
+2023-10-17 23:57:55,274 :INFO : test_login :Clicking on Login Button
+2023-10-18 00:00:50,367 :INFO : test_login :Entering EmailId of User
+2023-10-18 00:00:50,396 :INFO : test_login :Entering Password
+2023-10-18 00:00:50,423 :INFO : test_login :Clicking on Login Button
+2023-10-18 00:05:21,361 :INFO : test_login :Entering EmailId of User
+2023-10-18 00:05:21,395 :INFO : test_login :Entering Password
+2023-10-18 00:05:21,421 :INFO : test_login :Clicking on Login Button
+2023-10-18 14:22:34,477 :INFO : test_login :Entering EmailId of User
+2023-10-18 14:22:34,504 :INFO : test_login :Entering Password
+2023-10-18 14:22:34,535 :INFO : test_login :Clicking on Login Button
+2023-10-18 14:30:10,189 :INFO : test_login :Entering EmailId of User
+2023-10-18 14:30:10,217 :INFO : test_login :Entering Password
+2023-10-18 14:30:10,243 :INFO : test_login :Clicking on Login Button
+2023-10-19 00:04:14,711 :INFO : test_login :Entering EmailId of User
+2023-10-19 00:04:14,739 :INFO : test_login :Entering Password
+2023-10-19 00:04:14,769 :INFO : test_login :Clicking on Login Button

@@ -1,6 +1,7 @@
 from selenium.webdriver.common.by import By
 
-from pageObjects.SalesOrderCreationPage import SalesOrderCreationPage
+from pageObjects.SOCreationPage import SOCreationPage
+
 
 
 class SalesModulePage:
@@ -15,8 +16,9 @@ class SalesModulePage:
 
     def getAddNewSalesOrder(self):
         self.driver.find_element(*SalesModulePage.addSalesOrder).click()
-        salesordercreationpage = SalesOrderCreationPage(self.driver)
-        return salesordercreationpage
+        socreationpage = SOCreationPage(self.driver)
+        return socreationpage
+
 
 
 
