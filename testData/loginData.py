@@ -1,2 +1,4 @@
 class loginData:
-    testLoginData = [{"username": "chaitanya.b@aknamed", "password": "chetan@123"}]
+    testLoginData = [{"username": "chaitanya.b@aknamed.com", "password": "chetan@123"}]
+
+
