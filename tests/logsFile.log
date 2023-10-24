@@ -79,3 +79,49 @@
 2023-10-17 23:31:49,789 :INFO : test_login :Entering EmailId of User
 2023-10-17 23:31:50,518 :INFO : test_login :Entering Password
 2023-10-17 23:31:51,213 :INFO : test_login :Clicking on Login Button
+2023-10-23 13:06:47,053 :INFO : test_login :Entering EmailId of User
+2023-10-23 13:06:47,382 :INFO : test_login :Entering Password
+2023-10-23 13:06:48,692 :INFO : test_login :Clicking on Login Button
+2023-10-23 13:08:25,679 :INFO : test_login :Entering EmailId of User
+2023-10-23 13:08:26,556 :INFO : test_login :Entering Password
+2023-10-23 13:08:27,449 :INFO : test_login :Clicking on Login Button
+2023-10-23 13:10:25,986 :INFO : test_login :Entering EmailId of User
+2023-10-23 13:10:26,606 :INFO : test_login :Entering Password
+2023-10-23 13:10:27,688 :INFO : test_login :Clicking on Login Button
+2023-10-23 13:13:39,118 :INFO : test_login :Entering EmailId of User
+2023-10-23 13:13:39,730 :INFO : test_login :Entering Password
+2023-10-23 13:13:40,339 :INFO : test_login :Clicking on Login Button
+2023-10-24 01:10:45,308 :INFO : test_login :Entering EmailId of User
+2023-10-24 01:10:46,050 :INFO : test_login :Entering Password
+2023-10-24 01:10:46,843 :INFO : test_login :Clicking on Login Button
+2023-10-24 01:14:27,022 :INFO : test_login :Entering EmailId of User
+2023-10-24 01:14:27,388 :INFO : test_login :Entering Password
+2023-10-24 01:14:28,589 :INFO : test_login :Clicking on Login Button
+2023-10-24 01:15:51,113 :INFO : test_login :Entering EmailId of User
+2023-10-24 01:15:51,502 :INFO : test_login :Entering Password
+2023-10-24 01:15:52,297 :INFO : test_login :Clicking on Login Button
+2023-10-24 01:19:04,892 :INFO : test_login :Entering EmailId of User
+2023-10-24 01:19:05,314 :INFO : test_login :Entering Password
+2023-10-24 01:19:06,106 :INFO : test_login :Clicking on Login Button
+2023-10-24 01:22:10,968 :INFO : test_login :Entering EmailId of User
+2023-10-24 01:22:11,329 :INFO : test_login :Entering Password
+2023-10-24 01:22:12,460 :INFO : test_login :Clicking on Login Button
+2023-10-24 15:32:00,493 :INFO : test_login :Entering EmailId of User
+2023-10-24 15:32:00,880 :INFO : test_login :Entering Password
+2023-10-24 15:32:01,901 :INFO : test_login :Clicking on Login Button
+2023-10-24 16:37:30,011 :INFO : test_login :Entering EmailId of User
+2023-10-24 16:37:30,857 :INFO : test_login :Entering Password
+2023-10-24 16:37:31,654 :INFO : test_login :Clicking on Login Button
+2023-10-24 16:40:29,334 :INFO : test_login :Entering EmailId of User
+2023-10-24 16:40:30,180 :INFO : test_login :Entering Password
+2023-10-24 16:40:30,859 :INFO : test_login :Clicking on Login Button
+2023-10-24 16:45:05,236 :INFO : test_login :Entering EmailId of User
+2023-10-24 16:45:05,968 :INFO : test_login :Entering Password
+2023-10-24 16:45:07,179 :INFO : test_login :Clicking on Login Button
+2023-10-24 16:45:07,180 :INFO : test_login :<bound method LogoutPage.getProfileImageClick of <pageObjects.logoutPage.LogoutPage object at 0x7f82683f0b90>>
+2023-10-24 16:45:07,180 :INFO : test_login :<bound method LogoutPage.getLogout of <pageObjects.logoutPage.LogoutPage object at 0x7f82683f0b90>>
+2023-10-24 16:54:48,162 :INFO : test_login :Entering EmailId of User
+2023-10-24 16:54:48,562 :INFO : test_login :Entering Password
+2023-10-24 16:54:49,240 :INFO : test_login :Clicking on Login Button
+2023-10-24 16:54:49,240 :INFO : test_login :<bound method LogoutPage.getProfileImageClick of <pageObjects.logoutPage.LogoutPage object at 0x7fdba0f78dd0>>
+2023-10-24 16:54:49,241 :INFO : test_login :<bound method LogoutPage.getLogout of <pageObjects.logoutPage.LogoutPage object at 0x7fdba0f78dd0>>

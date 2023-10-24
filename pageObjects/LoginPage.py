@@ -1,6 +1,7 @@
 from selenium.webdriver.common.by import By
 
 from pageObjects.LandingPage import LandingPage
+from pageObjects.logoutPage import LogoutPage
 
 
 class LoginPage:
@@ -21,6 +22,8 @@ class LoginPage:
     def getLoginButton(self):
         self.driver.find_element(*LoginPage.loginBtn).click()
         self.driver.implicitly_wait(2)
-        landingpage = LandingPage(self.driver)
-        return landingpage
+        # landingpage = LandingPage(self.driver)
+        # return landingpage
+        logoutpage = LogoutPage(self.driver)
+        return logoutpage
 
