@@ -2,8 +2,6 @@ from selenium.webdriver.common.by import By
 
 from pageObjects.SOCreationPage import SOCreationPage
 
-
-
 class SalesModulePage:
     def __init__(self, driver):
         self.driver = driver

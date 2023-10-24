@@ -21,7 +21,15 @@ class SOCreationPage:
 
     saveDraft = (By.ID, 'so_submit')
 
-    confirmSoButton =(By.XPATH, '//a[text()="Confirm SO"]')
+    confirmSoButton = (By.XPATH, '//a[text()="Confirm SO"]')
+
+    soConfirmPopUp = (By.CSS_SELECTOR, ".modal-content .modal-footer .btn-danger")
+
+    createPicklistButton = (By.ID, "create_pick_list")
+
+    createSiButton = (By.XPATH, '//a[text()="Create SI"]')
+
+    saveSiDraftButton = (By.ID, "form-submit")
 
     def getClickOnBuyerPartyContainer(self):
         return self.driver.find_element(*SOCreationPage.buyerPartContainer).click()
@@ -48,4 +56,21 @@ class SOCreationPage:
         return self.driver.find_element(*SOCreationPage.saveDraft).click()
 
     def getConfirmSoButton(self):
-        return  self.driver.find_element(*SOCreationPage.confirmSoButton).click()
+        return self.driver.find_element(*SOCreationPage.confirmSoButton).click()
+
+    def getSoConfirmPopUp(self):
+        return self.driver.find_element(*SOCreationPage.soConfirmPopUp).click()
+
+    def getCreatePickListButton(self):
+        return self.driver.find_element(*SOCreationPage.createPicklistButton).click()
+
+    def getCreateSiButton(self):
+        return self.driver.find_element(*SOCreationPage.createSiButton).click()
+        child_window = self.driver.window_handles
+        self.driver.switch_to.window(child_window[1])
+
+    def getSaveSiDraftButton(self):
+        self.driver.find_element(*SOCreationPage.saveSiDraftButton).click()
+
+
+
